@@ -2,7 +2,7 @@ Pokemon-Go
 
 It's a client for http://pokeapi.co/. This app sources of info about  pokemons
 
-    ADD DEMO LINK HERE
+    [ADD DEMO LINK HERE]-(https://nvalja.github.io/pokemon-go/)
 
 Description
 In the begin you have list of 12 pokemons.
@@ -16,4 +16,3 @@ Installing
     Fork and clone this repository
     Run npm install in your terminal
     Run npm start
-
