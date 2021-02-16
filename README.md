@@ -2,7 +2,7 @@
 
 It's a client for http://pokeapi.co/. This app sources of info about  pokemons
 
--[ADD DEMO LINK HERE]-(https://nvalja.github.io/pokemon-go/)
+*[ADD DEMO LINK HERE](https://nvalja.github.io/pokemon-go/)
 
 # Description
 In the begin you have list of 12 pokemons.
