@@ -29,7 +29,7 @@ export const SelectedCard = React.memo(
         totalMoves: loadetPokemon.moves.length,
       };
 
-      setPokemon(pokemonId, 'sss');
+      setPokemon(pokemonInfo);
     };
   
     return (
