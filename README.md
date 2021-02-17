@@ -1,6 +1,6 @@
 ## Pokemon-Go
 
-It's a client for http://pokeapi.co/. This app sources of info about  pokemons
+It's a client for http://pokeapi.co/. This app sources of info about pokemons
 
 [ADD DEMO LINK HERE](https://nvalja.github.io/pokemon-go/)
 
