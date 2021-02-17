@@ -27,3 +27,15 @@ export const getDate = async(count) => {
 
   return result;
 };
+
+export const getTypes = async() => {
+  const types = await request('https://pokeapi.co/api/v2/type?limit=999');
+
+  return types.results;
+};
+
+export const getPokemon = async(id) => {
+  const types = await request(`https://pokeapi.co/api/v2/pokemon/${id}`);
+
+  return types;
+};
